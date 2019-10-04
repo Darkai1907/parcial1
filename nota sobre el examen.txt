@@ -1,0 +1,2 @@
+lo hice interactivo en vez de con botones debido al corto tiempo,
+ se organiza por edad dando clic y se edita de igual manera

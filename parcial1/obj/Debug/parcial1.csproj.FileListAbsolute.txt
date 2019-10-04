@@ -1,0 +1,10 @@
+C:\Users\Edgar\source\repos\parcial1\parcial1\bin\Debug\parcial1.exe.config
+C:\Users\Edgar\source\repos\parcial1\parcial1\bin\Debug\parcial1.exe
+C:\Users\Edgar\source\repos\parcial1\parcial1\bin\Debug\parcial1.pdb
+C:\Users\Edgar\source\repos\parcial1\parcial1\obj\Debug\parcial1.csprojAssemblyReference.cache
+C:\Users\Edgar\source\repos\parcial1\parcial1\obj\Debug\parcial1.Form1.resources
+C:\Users\Edgar\source\repos\parcial1\parcial1\obj\Debug\parcial1.Properties.Resources.resources
+C:\Users\Edgar\source\repos\parcial1\parcial1\obj\Debug\parcial1.csproj.GenerateResource.cache
+C:\Users\Edgar\source\repos\parcial1\parcial1\obj\Debug\parcial1.csproj.CoreCompileInputs.cache
+C:\Users\Edgar\source\repos\parcial1\parcial1\obj\Debug\parcial1.exe
+C:\Users\Edgar\source\repos\parcial1\parcial1\obj\Debug\parcial1.pdb
